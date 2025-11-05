@@ -1,0 +1,5 @@
+{
+  "name": "PrivacyGuard AI",
+  "description": "An AI-powered web application that detects and helps users protect against data breaches and privacy exposure by scanning public breach datasets and providing a comprehensive privacy dashboard.",
+  "requestFramePermissions": []
+}
